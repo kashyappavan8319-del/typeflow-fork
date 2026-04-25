@@ -1,0 +1,20 @@
+{
+  "overview": "TypeFlow is a calm, focused typing practice app with streak tracking and a 10-level progression system — from easy to difficult passages — with level completion popups.",
+  "features": [
+    "Daily streak counter next to dark mode toggle",
+    "10-level progression system from easy to difficult",
+    "Level selection UI shown when starting a session",
+    "Level completion popup with Try Again and Next Level options",
+    "Difficulty-scaled passages across all 10 levels"
+  ],
+  "category": "productivity",
+  "tags": [
+    "typing",
+    "practice",
+    "streak",
+    "levels",
+    "wpm",
+    "dark-mode"
+  ],
+  "last_updated": "2026-04-25T11:15:57.342Z"
+}
