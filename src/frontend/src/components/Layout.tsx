@@ -76,17 +76,10 @@ export function Layout({ children }: LayoutProps) {
 
       <footer className="bg-muted/40 border-t border-border py-5 mt-auto">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 text-center text-muted-foreground text-sm">
-          © {new Date().getFullYear()}. Built with love using{" "}
-          <a
-            href={`https://caffeine.ai?utm_source=caffeine-footer&utm_medium=referral&utm_content=${encodeURIComponent(
-              typeof window !== "undefined" ? window.location.hostname : "",
-            )}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="underline underline-offset-2 hover:text-foreground transition-smooth"
-          >
-            caffeine.ai
-          </a>
+          © {new Date().getFullYear()}. Built with love by{" "}
+          <a href=" https://www.instagram.com/pavankashyap2372/"
+target="blanck">Pavan
+</a>
         </div>
       </footer>
     </div>
